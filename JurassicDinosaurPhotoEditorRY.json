@@ -16,9 +16,9 @@
       "IronKey": "102310061",
       "AdsCount": "2",
       "ActiveApp": "yes",
-      "AdsSwitchBanner": "unity", // Switch for Banner Ads (admob, fan, unity, max, iron)
-      "AdsSwitchInterstitial": "unity", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
-      "AdsSwitchNative": "unity" // Switch for Native Ads (admob, fan, max, iron)
+      "AdsSwitchBanner": "iron", // Switch for Banner Ads (admob, fan, unity, max, iron)
+      "AdsSwitchInterstitial": "iron", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
+      "AdsSwitchNative": "iron" // Switch for Native Ads (admob, fan, max, iron)
     }
   ]
 }
