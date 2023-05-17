@@ -4,8 +4,8 @@
       "AdmobInterstitial": "ca-app-pub-7401359776648318/2930353771",
       "AdmobBanner": "ca-app-pub-7401359776648318/7827457235",
       "AdmobNative": "ca-app-pub-7401359776648318/2738782087",
-      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
-      "FanBanner": "1366125683959148_1367108323860884",
+      "FanInterstitial": "777093650543816_777098730543308",
+      "FanBanner": "777093650543816_777099000543281",
       "FanNative": "777093650543816_777094590543722",
       "UnityGame": "4309047",
       "UnityInterstitial": "Interstitial_Android",
@@ -16,8 +16,8 @@
       "IronKey": "19fd0c4bd",
       "AdsCount": "2",
       "ActiveApp": "yes",
-      "AdsSwitchBanner": "admob", // Switch for Banner Ads (admob, fan, unity, max, iron)
-      "AdsSwitchInterstitial": "admob", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
+      "AdsSwitchBanner": "fan", // Switch for Banner Ads (admob, fan, unity, max, iron)
+      "AdsSwitchInterstitial": "fan", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
       "AdsSwitchNative": "fan" // Switch for Native Ads (admob, fan, max, iron)
     }
   ]
