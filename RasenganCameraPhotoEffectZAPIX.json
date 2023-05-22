@@ -1,23 +1,23 @@
 {
   "data": [
     {
-      "AdmobInterstitial": "ca-app-pub-7401359776648318/5799209637",
-      "AdmobBanner": "ca-app-pub-7401359776648318/3556189670",
-      "AdmobNative": "ca-app-pub-7401359776648318/1859964629",
-      "FanInterstitial": "141970021017824_141971531017673",
-      "FanBanner": "141970021017824_141970627684430",
-      "FanNative": "141970021017824_217133436834815",
-      "UnityGame": "4308643",
+      "AdmobInterstitial": "ca-app-pub-7401359776648318/8321209426",
+      "AdmobBanner": "ca-app-pub-7401359776648318/2368731514",
+      "AdmobNative": "ca-app-pub-7401359776648318/2420702404",
+      "FanInterstitial": "250421724246696_250422707579931",
+      "FanBanner": "250421724246696_250422290913306",
+      "FanNative": "250421724246696_250422854246583",
+      "UnityGame": "4287375",
       "UnityInterstitial": "Interstitial_Android",
       "UnityBanner": "Banner_Android",
-      "MaxInterstitial": "0e8128d9b7d49638",
-      "MaxBanner": "7d8b6bd3da97d57e",
-      "MaxNative": "b267d04fd7861fd1",
-      "IronKey": "1a052a9cd",
+      "MaxInterstitial": "71cfa4963232b181",
+      "MaxBanner": "1524ed7efa99da5e",
+      "MaxNative": "9ab794c1b6d7c5a2",
+      "IronKey": "1a163b645",
       "AdsCount": "2",
       "ActiveApp": "yes",
       "AdsSwitchBanner": "admob", // Switch for Banner Ads (admob, fan, unity, max, iron)
-      "AdsSwitchInterstitial": "admob", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
+      "AdsSwitchInterstitial": "unity", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
       "AdsSwitchNative": "admob" // Switch for Native Ads (admob, fan, max, iron)
     }
   ]
