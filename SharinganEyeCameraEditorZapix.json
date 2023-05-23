@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "AdmobInterstitial": "ca-app-pub-7401359776648318/4089007299",
+      "AdmobBanner": "ca-app-pub-7401359776648318/2915526429",
+      "AdmobNative": "ca-app-pub-7401359776648318/9985644880",
+      "FanInterstitial": "250421724246696_250422707579931",
+      "FanBanner": "250421724246696_250422290913306",
+      "FanNative": "250421724246696_250422854246583",
+      "UnityGame": "4287375",
+      "UnityInterstitial": "Interstitial_Android",
+      "UnityBanner": "Banner_Android",
+      "MaxInterstitial": "71cfa4963232b181",
+      "MaxBanner": "1524ed7efa99da5e",
+      "MaxNative": "9ab794c1b6d7c5a2",
+      "IronKey": "1a163b645",
+      "AdsCount": "2",
+      "ActiveApp": "yes",
+      "AdsSwitchBanner": "admob", // Switch for Banner Ads (admob, fan, unity, max, iron)
+      "AdsSwitchInterstitial": "unity", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
+      "AdsSwitchNative": "admob" // Switch for Native Ads (admob, fan, max, iron)
+    }
+  ]
+}
