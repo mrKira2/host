@@ -3,7 +3,7 @@
     {
       "AdmobInterstitial": "ca-app-pub-7401359776648318/8425151205",
       "AdmobBanner": "ca-app-pub-7401359776648318/5990559554",
-      "AdmobNative": "ca-app-pub-7401359776648318/2653949775",
+      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
       "FanInterstitial": "1366125683959148_1373996659838717",
       "FanBanner": "1366125683959148_1367108323860884",
       "FanNative": "1366125683959148_1387395341832182",
@@ -18,7 +18,7 @@
       "ActiveApp": "yes",
       "AdsSwitchBanner": "unity", // Switch for Banner Ads (admob, fan, unity, max, iron)
       "AdsSwitchInterstitial": "unity", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
-      "AdsSwitchNative": "fan" // Switch for Native Ads (admob, fan, max, iron)
+      "AdsSwitchNative": "admob" // Switch for Native Ads (admob, fan, max, iron)
     }
   ]
 }
