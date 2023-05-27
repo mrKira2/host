@@ -18,7 +18,7 @@
       "ActiveApp": "yes",
       "AdsSwitchBanner": "max", // Switch for Banner Ads (admob, fan, unity, max, iron)
       "AdsSwitchInterstitial": "unity", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
-      "AdsSwitchNative": "max" // Switch for Native Ads (admob, fan, max, iron)
+      "AdsSwitchNative": "fan" // Switch for Native Ads (admob, fan, max, iron)
     }
   ]
 }
