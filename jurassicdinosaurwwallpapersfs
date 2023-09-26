@@ -13,12 +13,12 @@
       "MaxInterstitial": "903045d19744a44a",
       "MaxBanner": "773343a18ff753e4",
       "MaxNative": "0e2ae9546a7b3657",
-      "IronKey": "1a711f2fd",
+      "IronKey": "1bcacd095",
       "AdsCount": "2",
       "ActiveApp": "yes",
-      "AdsSwitchBanner": "admob", // Switch for Banner Ads (admob, fan, unity, max, iron)
-      "AdsSwitchInterstitial": "admob", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
-      "AdsSwitchNative": "admob" // Switch for Native Ads (admob, fan, max, iron)
+      "AdsSwitchBanner": "unity", // Switch for Banner Ads (admob, fan, unity, max, iron)
+      "AdsSwitchInterstitial": "unity", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
+      "AdsSwitchNative": "unity" // Switch for Native Ads (admob, fan, max, iron)
     }
   ]
 }
