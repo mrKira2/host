@@ -1,7 +1,7 @@
 {
     
 	"activeBanner" : "admob",
-	"activeInterstitial" : "admob",
+	"activeInterstitial" : "fan",
 	"activeRewarded" : "admob",
 	"activeNative" : "admob",
 	
