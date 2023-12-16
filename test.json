@@ -1,9 +1,9 @@
 {
     
-	"activeBanner" : "fan",
-	"activeInterstitial" : "fan",
-	"activeRewarded" : "fan",
-	"activeNative" : "fan",
+	"activeBanner" : "max",
+	"activeInterstitial" : "max",
+	"activeRewarded" : "max",
+	"activeNative" : "max",
 	
 	"premiumPoster_Rewarded" : "on",
 	"premiumCard_Rewarded" : "off",
