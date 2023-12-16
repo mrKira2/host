@@ -6,7 +6,7 @@
 	"activeNative" : "admob",
 	
 	"premiumPoster_Rewarded" : "on",
-	"premiumCard_Rewarded" : "on",
+	"premiumCard_Rewarded" : "off",
 	
 	"INTERSTITIAL_FACEBOOK" : "IMG_16_9_APP_INSTALL#195566069137436_195568882470488",
 	"BANNER_FACEBOOK" : "IMG_16_9_APP_INSTALL#195566069137436_195566845804025",
