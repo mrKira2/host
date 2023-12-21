@@ -2,7 +2,7 @@
     
 	"activeBanner" : "fan",
 	"activeInterstitial" : "fan",
-	"activeRewarded" : "admob",
+	"activeRewarded" : "max",
 	"activeNative" : "fan",
 	
 	"premiumPoster_Rewarded" : "on",
