@@ -1,7 +1,7 @@
 {
     
 	"activeBanner" : "fan",
-	"activeInterstitial" : "fan",
+	"activeInterstitial" : "max",
 	"activeRewarded" : "max",
 	"activeNative" : "fan",
 	
