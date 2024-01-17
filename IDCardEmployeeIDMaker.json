@@ -1,9 +1,9 @@
 {
     
 	"activeBanner" : "admob",
-	"activeInterstitial" : "admob",
-	"activeRewarded" : "admob",
-	"activeNative" : "admob",
+	"activeInterstitial" : "max",
+	"activeRewarded" : "max",
+	"activeNative" : "fan",
 	
 	"premiumPoster_Rewarded" : "on",
 	"premiumCard_Rewarded" : "on",
