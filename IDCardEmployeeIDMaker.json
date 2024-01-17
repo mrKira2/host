@@ -1,9 +1,9 @@
 {
     
-	"activeBanner" : "admob",
+	"activeBanner" : "max",
 	"activeInterstitial" : "max",
-	"activeRewarded" : "max",
-	"activeNative" : "fan",
+	"activeRewarded" : "admob",
+	"activeNative" : "max",
 	
 	"premiumPoster_Rewarded" : "on",
 	"premiumCard_Rewarded" : "on",
@@ -12,9 +12,9 @@
 	"BANNER_FACEBOOK" : "IMG_16_9_APP_INSTALL#195566069137436_195566845804025",
 	"NATIVE_FACEBOOK" : "IMG_16_9_APP_INSTALL#195566069137436_634916691869036",
 	
-	"MAX_INTERSTITIAL" : "1d16c37ebfb68730",
-	"MAX_BANNER" : "027e687b7e751c3f",
-	"MAX_NATIVE" : "d0dc905cac562b40",
+	"MAX_INTERSTITIAL" : "9a68165b913e7924",
+	"MAX_BANNER" : "0e13a999edf5ff67",
+	"MAX_NATIVE" : "38f148f83d5759e0",
 	"MAX_REWARDED" : "63e73cb6027e29f9",
 	
 	"ADMOB_INTERSTITIAL" : "ca-app-pub-3940256099942544/1033173712",
